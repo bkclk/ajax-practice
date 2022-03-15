@@ -1,0 +1,17 @@
+[
+    {
+        "name":"mustafa",
+        "department":"bilşim",
+        "salary":3500
+    },
+    {
+        "name":"burak",
+        "department":"ziraat",
+        "salary":4000
+    },
+    {
+        "name":"mahir",
+        "department":"motorcu",
+        "salary":5000
+    }
+]
